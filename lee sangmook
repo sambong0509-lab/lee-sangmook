@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>이상묵 교수 - 마취통증의학과 | Catholic University of Korea</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; }
+    header { background: #5a5a78; color: white; text-align: center; padding: 40px 20px; }
+    .container { padding: 30px; }
+    .profile-image { float: left; width: 220px; margin-right: 25px; border-radius: 8px; }
+    h1, h2 { margin-top: 0; }
+    .section { margin-top: 40px; }
+    .paper { margin-bottom: 30px; }
+    .paper img { width: 100%; max-width: 500px; border: 1px solid #ccc; }
+    .clearfix::after { content: ""; clear: both; display: table; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>이상묵 교수 (Sang-Mook Lee, MD)</h1>
+  <p>가톨릭대학교 의과대학 마취통증의학과 교수</p>
+</header>
+
+<div class="container">
+
+  <!-- 기본 정보 -->
+  <section class="section clearfix">
+    <img class="profile-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Professor_portrait.jpg/400px-Professor_portrait.jpg" alt="이상묵 교수 사진">
+    <h2>기본 소개</h2>
+    <p>
+      이상묵 교수는 가톨릭대학교 의과대학 마취통증의학과의 정교수로 재직 중입니다.  
+      마취통증의학 및 통증관리, 신경차단술 등 임상 및 기초 연구를 활발히 수행하고 있습니다. :contentReference[oaicite:1]{index=1}
+    </p>
+    <p>
+      📧 이메일: ismoogi@catholic.ac.kr  
+      (※ 가톨릭대학교 의과대학 공식 교수 이메일) :contentReference[oaicite:2]{index=2}
+    </p>
+  </section>
+
+  <!-- 경력 및 학력 -->
+  <section class="section">
+    <h2>학력 & 경력</h2>
+    <ul>
+      <li>가톨릭대학교 의과대학 마취통증의학과 교수 (현) :contentReference[oaicite:3]{index=3}</li>
+      <li>대전성모병원 수련교육부장, 수술실장, 의료협력센터소장 역임 :contentReference[oaicite:4]{index=4}</li>
+      <li>The University of British Columbia 연수 (2006-2007) :contentReference[oaicite:5]{index=5}</li>
+      <li>대한마취통증의학회 정회원 :contentReference[oaicite:6]{index=6}</li>
+      <li>대한부위마취학회 정회원 :contentReference[oaicite:7]{index=7}</li>
+      <li>대한통증학회 정회원 :contentReference[oaicite:8]{index=8}</li>
+      <li>대한척추통증연구학회 정회원 :contentReference[oaicite:9]{index=9}</li>
+    </ul>
+  </section>
+
+  <!-- 대표 논문 -->
+  <section class="section">
+    <h2>대표 논문 / 연구 활동</h2>
+
+    <!-- 논문 1 -->
+    <div class="paper">
+      <h3>Analgesic effectiveness of nerve block in shoulder arthroscopy</h3>
+      <p>
+        어깨 관절경 수술 후 통증 조절을 위해 다양한 신경차단술(Interscalene, Suprascapular, Axillary)을 비교한 연구입니다.  
+        신경차단술이 PCA(환자조절형 진통기)보다 뛰어난 진통 효과를 보였다는 결론을 제시했습니다. :contentReference[oaicite:10]{index=10}
+      </p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Shoulder_nerve_block_schematic.png" alt="신경차단술 도식">
+    </div>
+
+    <!-- 논문 2 -->
+    <div class="paper">
+      <h3>A comparison of the systemic toxicity of lidocaine vs QX-314</h3>
+      <p>
+        전신 독성 측면에서 일반 리도카인과 그 유도체인 QX-314를 비교한 실험 연구입니다.  
+        지질 용해성과 독성 차이를 통해 국소마취제의 안전성을 평가했습니다. :contentReference[oaicite:11]{index=11}
+      </p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Lidocaine_molecule.png" alt="리도카인 분자 구조">
+    </div>
+
+    <!-- 논문 3 -->
+    <div class="paper">
+      <h3>Lumbar intrathecal administration of QX-314</h3>
+      <p>
+        쿼터너리 리도카인 유도체 QX-314를 척추강 내 주사했을 때 생쥐에서의 통증 억제 및 부작용을 평가한 연구입니다.  
+        마취 기전과 안전성 측면에서 중요한 기초 데이터를 제공합니다. :contentReference[oaicite:12]{index=12}
+      </p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Spinal_anatomy_schematic.svg" alt="척추 주사 도식">
+    </div>
+
+  </section>
+
+  <!-- 기타 논문 리스트 -->
+  <section class="section">
+    <h2>추가 저술 및 기여</h2>
+    <p>
+      ResearchGate 및 ORCID 기반 수록 논문 외에도 케이스 리포트, 임상 연구 논문 등을 포함해 다수 학술 활동을 하고 있습니다. :contentReference[oaicite:13]{index=13}
+    </p>
+    <ul>
+      <li>Costoclavicular block for shoulder surgery (2019)</li>
+      <li>Erector spinae plane block case reports (2019)</li>
+      <li>Various case reports in anesthesiology (2005-2013)</li>
+    </ul>
+  </section>
+
+  <!-- Footer -->
+  <footer class="section" style="text-align:center; border-top:1px solid #eee; padding-top:20px;">
+    <p>© 2026 Catholic University of Korea School of Medicine</p>
+  </footer>
+
+</div>
+
+</body>
+</html>
